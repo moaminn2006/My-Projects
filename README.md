@@ -10,3 +10,4 @@ A three-pages website built with sematic HTML and CSS
 
 ## Structure
 css/ , js/ , index.html , contact.html , about.html
+#Hello
